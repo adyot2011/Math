@@ -1,0 +1,45 @@
+body
+{
+	background-image: url("bg 1.jpg");
+	font-family: 'Quicksand', sans-serif;
+}
+
+	.login_div1 , .login_div2
+	{
+		
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+     margin-left: 20px;
+
+}
+#word , #word-2
+{
+	width: 60%;
+	font: small-caption;
+	font-size: 16px;
+}
+
+
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: #fff;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1{
+	font-size: 50px;
+}
